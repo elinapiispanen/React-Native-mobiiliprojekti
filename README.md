@@ -1,3 +1,3 @@
 # React-Native-mobiiliprojekti
 
-![Newsfeed](https://github.com/elinapiispanen/React-Native-mobiiliprojekti/images/Newsfeed.jpeg)
+![Newsfeed](https://github.com/elinapiispanen/React-Native-mobiiliprojekti/blob/master/images/Newsfeed.jpeg)
